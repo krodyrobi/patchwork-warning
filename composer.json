@@ -1,0 +1,15 @@
+{
+  "name": "presslabs/patchwork-warning",
+  "minimum-stability": "stable",
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "Krody Robert",
+      "email": "robi@presslabs.com"
+    }
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "^5.7",
+    "antecedent/patchwork": "2.0.*"
+  }
+}
